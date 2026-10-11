@@ -2,9 +2,9 @@
 
 578 headphones and IEMs and 280 headphone sources (USB dongles, Bluetooth receivers, portable players, desktop amplifiers, DAC/amps and audio interfaces), built from manufacturer documents, with a provenance column for every figure.
 
-Browse it, with calculators built on top of it: **https://thephonepath.com/**
-Same files on the site: https://thephonepath.com/data/
-How it was built: https://thephonepath.com/how-this-data-was-built/
+- Browse it, with calculators built on top of it: **https://thephonepath.com/**
+- Same files on the site: https://thephonepath.com/data/
+- How it was built: https://thephonepath.com/how-this-data-was-built/
 
 ## Why this exists
 
