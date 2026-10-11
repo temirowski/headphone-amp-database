@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Headphone and Headphone Amplifier Specification Database"
+authors:
+  - name: "The Phone Path"
+    website: "https://thephonepath.com/"
+url: "https://thephonepath.com/data/"
+license: CC-BY-4.0
+date-released: "2026-10-10"
