@@ -6,6 +6,16 @@
 - Same files on the site: https://thephonepath.com/data/
 - How it was built: https://thephonepath.com/how-this-data-was-built/
 
+## Using this data? Credit it like this
+
+The licence is CC BY 4.0, so anything you publish with these files (an article, a chart, a video, an app) needs a credit. Copy whichever fits:
+
+- HTML: `Data: <a href="https://thephonepath.com/">The Phone Path</a> (CC BY 4.0)`
+- Markdown: `Data: [The Phone Path](https://thephonepath.com/) (CC BY 4.0)`
+- Plain text (video descriptions, print): `Data: The Phone Path, https://thephonepath.com/ (CC BY 4.0)`
+
+If you write about one headphone or amplifier, linking its own page helps your readers more, for example https://thephonepath.com/headphones/sennheiser-hd-600/. Every row has its page in the `page` column.
+
 ## Why this exists
 
 Headphone sensitivity is published in two incompatible units (dB/mW and dB/V), often without saying which, and amplifier power is usually published at one load only. Mixing them up shifts the result by 10·log10(1000/Z) dB: 15 dB for a 32 ohm headphone.
